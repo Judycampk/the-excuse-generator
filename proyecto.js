@@ -1,5 +1,5 @@
 function randomExcuse(){
-    let quien = ['el perro', 'mi abuela', 'su tortuga', 'mi pajarito'];
+    let quien = ['el perro', 'mi abuela', 'su tortuga', 'mi gatito'];
     let que = ['se comio', 'ensucio', 'arruino', 'rompio'];
     let cuando = ['antes de clase', 'justo en clase', 'cuando finalice', 'durante mi almuerzo', 'miestras rezaba'];
 
